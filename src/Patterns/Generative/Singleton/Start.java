@@ -1,4 +1,4 @@
-package Patterns.Behavior.Singleton;
+package Patterns.Generative.Singleton;
 
 public class Start {
 

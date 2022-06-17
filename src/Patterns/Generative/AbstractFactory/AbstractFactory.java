@@ -1,4 +1,4 @@
 package Patterns.Generative.AbstractFactory;
 
-public class HGVV {
+public class AbstractFactory {
 }

@@ -1,4 +1,4 @@
-package Patterns.Behavior.Singleton;
+package Patterns.Generative.Singleton;
 
 import org.jetbrains.annotations.Contract;
 import org.jetbrains.annotations.NotNull;

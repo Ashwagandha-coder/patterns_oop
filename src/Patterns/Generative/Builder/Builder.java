@@ -1,4 +1,4 @@
 package Patterns.Generative.Builder;
 
-public class GHGV {
+public class Builder {
 }
