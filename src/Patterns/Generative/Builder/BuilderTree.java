@@ -1,4 +1,4 @@
 package Patterns.Generative.Builder;
 
-public interface Builder {
+public class BuilderTree {
 }
