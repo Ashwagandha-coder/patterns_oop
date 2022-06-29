@@ -1,4 +1,7 @@
 package Patterns.Generative.Prototype;
 
-public class Prototype {
+public interface Prototype {
+
+    Prototype clone();
+
 }

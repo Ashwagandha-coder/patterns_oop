@@ -1,4 +1,3 @@
 package Patterns.Generative.AbstractFactory;
 
-public interface Product {
-}
+public interface Product {}
